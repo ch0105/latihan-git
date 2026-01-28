@@ -1,2 +1,2 @@
-Belajar GIT
+Belajar GIT mudah
 Sedang belajar branching
